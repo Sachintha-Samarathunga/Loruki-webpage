@@ -1,6 +1,6 @@
 # ⭕ Loruki-web-clone with animations ⭕
 
-## Using HTML,CSS & Javascript
+## Using HTML & CSS
 
 See how it works 😍
 
